@@ -1,0 +1,33 @@
+WELCOME TO CHECKERS
+Some basic rules
+You enter the coordinates in the form
+You can quit the game at any time by pressing
+You can surrender at any time by pressing
+Now that you've familiarized yourself with the rules, enjoy!
+First, we need to know, is jumping mandatory?
+GAME ENDED!
+You've surrendered before the game even started.
+Illegal input!
+Player's turn.
+Computer's turn.
+Thinking...
+You have no pieces left.
+Computer has no pieces left.
+You have 7 pieces fewer than your opponent.Do you want to surrender?
+Coward.
+You have no moves left, and you have fewer pieces than the computer.
+You have no available moves.
+You surrendered.
+Where to
+Which piece
+Illegal move!
+Computer has no available moves left, and you have more pieces left.
+Computer has no available moves left.
+Computer has cornered itself.
+Computer has moved
+to
+It took him
+seconds
+Pathetic.
+YOU LOSE!
+YOU WIN!
